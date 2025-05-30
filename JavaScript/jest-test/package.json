@@ -1,0 +1,16 @@
+{
+  "name": "jest-test-example",
+  "version": "1.0.0",
+  "description": "Simple Jest testing example",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "packageManager": "pnpm@8.14.3+sha1.872b21adeaae4e71acd5c551ba848d927d6aa446"
+}
