@@ -1,3 +1,6 @@
 [submodule "Rust/ripgrep"]
 	path = Rust/ripgrep
 	url = https://github.com/BurntSushi/ripgrep.git
+[submodule "Go/minio"]
+	path = Go/minio
+	url = https://github.com/minio/minio
