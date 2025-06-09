@@ -4,3 +4,6 @@
 [submodule "Go/minio"]
 	path = Go/minio
 	url = https://github.com/minio/minio
+[submodule "JavaScript/bun"]
+	path = JavaScript/bun
+	url = https://github.com/oven-sh/bun
