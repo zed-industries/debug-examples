@@ -4,3 +4,18 @@
 [submodule "Go/minio"]
 	path = Go/minio
 	url = https://github.com/minio/minio
+[submodule "JavaScript/bun"]
+	path = JavaScript/bun
+	url = https://github.com/oven-sh/bun
+[submodule "JavaScript/prettier"]
+	path = JavaScript/prettier
+	url = https://github.com/prettier/prettier
+[submodule "JavaScript/chai"]
+	path = JavaScript/chai
+	url = https://github.com/chaijs/chai
+[submodule "JavaScript/pinia"]
+	path = JavaScript/pinia
+	url = https://github.com/vuejs/pinia
+[submodule "JavaScript/angular-cli"]
+	path = JavaScript/angular-cli
+	url = https://github.com/angular/angular-cli
