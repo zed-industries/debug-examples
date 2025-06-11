@@ -16,6 +16,6 @@
 [submodule "JavaScript/pinia"]
 	path = JavaScript/pinia
 	url = https://github.com/vuejs/pinia
-[submodule "JavaScript/angular-cli"]
-	path = JavaScript/angular-cli
-	url = https://github.com/angular/angular-cli
+[submodule "JavaScript/bootstrap"]
+	path = JavaScript/bootstrap
+	url = https://github.com/twbs/bootstrap
